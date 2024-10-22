@@ -90,16 +90,8 @@ else:
 
 ### Output:
 
-``` 
 
 ![Screenshot 2024-10-08 133725](https://github.com/user-attachments/assets/994ecc89-7f0f-4908-b0dd-622bd97ca559)
-
-
-```
-
-
-
-
 
 
 ### Result:
